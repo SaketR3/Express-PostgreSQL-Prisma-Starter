@@ -1,4 +1,4 @@
-A minimal boilerplate/starter code project to build Express-PostgreSQL-Supabase-Prisma projects with! 
+Starter code to build Express-PostgreSQL-Prisma projects with! This project uses Supabase for the database 
 
 <br/>
 
